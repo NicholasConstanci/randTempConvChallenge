@@ -1,0 +1,12 @@
+{
+  "name": "rand-temp-converter",
+  "version": "0.0.0",
+  "description": "randTempConverter",
+  "main": "app.js",
+  "author": {
+    "name": "Niko"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
